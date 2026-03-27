@@ -22,3 +22,8 @@ In this project, I worked with real data to create a clean and organized dashboa
 
 ## Why This Project Matters
 This project shows my ability to take raw data and turn it into meaningful insights, which is important for roles in data analytics and business intelligence.
+
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png) 
