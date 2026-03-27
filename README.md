@@ -1,12 +1,15 @@
 # Excel Dashboard Project
 
-This project demonstrates my ability to create a data-driven dashboard in Excel to analyze and present key insights.
+This project demonstrates my ability to build a structured Excel dashboard to analyze and present data clearly for decision-making.
 
-## What I did
-- Organized and cleaned raw data
+## Project Overview
+In this project, I worked with real data to create a clean and organized dashboard. The goal was to turn raw data into useful insights that can help guide decisions.
+
+## What I Did
+- Cleaned and organized raw data
 - Built a structured dashboard layout
-- Created visualizations (charts and tables)
-- Designed the dashboard for easy decision-making
+- Created charts and visualizations
+- Designed the dashboard for clarity and usability
 
 ## Skills Used
 - Microsoft Excel
@@ -14,5 +17,8 @@ This project demonstrates my ability to create a data-driven dashboard in Excel 
 - Dashboard Development
 - Data Visualization
 
-## Purpose
-I created this project to practice turning raw data into clear, actionable insights, which is essential for business intelligence and analytics roles.
+## File Included
+- excel-dashboard-analysis.xlsx
+
+## Why This Project Matters
+This project shows my ability to take raw data and turn it into meaningful insights, which is important for roles in data analytics and business intelligence.
